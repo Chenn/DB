@@ -1,0 +1,8 @@
+
+ tpch1		tpch3		tpch5		tpch6
+1.598s.		4.556s.    10.097s.		 992ms.
+
+
+
+
+
